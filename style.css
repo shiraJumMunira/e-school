@@ -1,0 +1,248 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+section{
+    margin-bottom: 100px;
+}
+.header-section {
+    background-color: #F0FFF0;
+}
+.header-section img {
+    width: 100px;
+}
+.navbar-nav {margin-left:0px;}
+
+.nav-item {
+    margin-left: 20px;
+    font-size: 17px;
+}
+
+.button-click {
+    color: #fff;
+    background-color: #28a745;
+    border: none;
+    padding: 9px 30px;
+    border-radius: 20px;
+    margin-left: 30px;
+    margin-right: 70px;
+}
+
+.button-click:hover{
+    color: #fff;
+    background-color: #218838;
+    border-color: #1e7e34;
+}
+.bannar-section {
+    background-color: #F0FFF0;
+}
+.jumbotron {
+    background: none;
+}
+.bannar-section img {
+    width: 500px;
+}
+.green-color{
+    color: #28a745;
+}
+.display-4 {
+    font-weight: bold;
+}
+.left-gap {
+    padding-left: 35px;
+}
+
+.navbar-brand {
+    margin-left: 25px;
+}
+.ready-learn-option{
+    margin-left: 5px;
+}
+.bannar-section a{
+    text-decoration: none;
+}
+.left-gap a:hover{
+    color:tomato !important;
+}
+.books-section img {
+    width: 50px;
+    padding-top: 40px;
+}
+.courses-section h2 {
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+.books-section .card {
+    border: none;
+    padding: 0px 33px;
+    background-color: #F0FFF0;
+}
+.books-section .card :hover{
+    box-shadow: none;
+}
+.card-full-shadow :hover {
+    box-shadow: 5px 10px 16px 5px lightgrey;
+    background: white;
+}
+.padding-top-half img {
+    padding-top: 30px;
+}
+.card-footer img {
+    width: 20px;
+}
+.card-footer {
+    background: none;
+    border: none;
+}
+.courses-section button {
+    margin-left: 0px;
+}
+.card {
+    border: none;
+    box-shadow: 11px 15px 11px lightgrey;
+    border-radius: 15px;
+}
+.card-full-shadow {
+    cursor: pointer;
+}
+.testimonial-section .card {
+    box-shadow: none;
+}
+.testimonial-section h2 {
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+.testimonial-section img {
+    border-radius: 50%;
+    width: 110px;
+}
+.testimonial-section .card-body {
+    background-color: #F0FFF0;
+    padding: 35px;
+}
+.arrow-up {
+    width: 0;
+    height: 0;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 20px solid #F0FFF0;
+    margin-left: 130px;
+}
+.footer-top-section {
+    background-color: #282531;
+    color: white;
+    padding: 70px;
+    margin-bottom: 0px;
+}
+.footer-top-section ul {
+    list-style: none;
+    padding-left: 0px;
+    line-height: 30px;
+}
+.footer-top-section a{
+    text-decoration: none;
+    color: white;
+}
+.footer-top-section p{
+    font-size: 20px;
+    padding-right: 10px;
+}
+.footer-section {
+    color: white;
+    background-color: #282531;
+}
+.footer-top-section a:hover{
+    color: tomato;
+}
+.book-offer-section{
+    background-image: url(Photos/offer.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px;
+    color: white;
+}
+.offer-book h3 {
+    font-weight: bold;
+    font-size: 41px;
+}
+.offer-book p {
+    font-size: 20px;
+}
+.team-section img {
+    width: 200px;
+    height: 150px;
+}
+.team-section .card {
+    box-shadow: none;
+    background: none;
+}
+.team-section h3 {
+    font-size: 35px;
+    font-weight: bold;
+    margin: 0px 0px 20px 0px;
+    padding-top: 40px;
+}
+.team-section {
+    background-color: #F0FFF0;
+}
+.strategy-analyze-section {
+    text-align: justify;
+}
+.strategy-section {
+    background-color: #282531;
+    color: white;
+    padding: 100px;
+    cursor: pointer;
+}
+
+.strategy-section:hover{
+    background-image: url(Photos/startgy.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 2s;
+}
+.analyze-section {
+    background-color: #282531;
+    color: white;
+    padding: 100px;
+    cursor: pointer;
+}
+.analyze-section:hover{
+    background-image: url(Photos/analise.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 2s;
+}
+
+.strategy-analyze-section .col-md-6 {
+    padding: 0px;
+}
+.about-section .card {
+    box-shadow: none;
+    background: none;
+}
+.about-section {
+    background-image: url(Photos/about.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px;
+    color: white;
+}
+
+.about-section h2{
+    font-weight: bold;
+}
+
+.about-section p{
+    font-size: 20px;
+}
+.contact-section .card {
+    box-shadow: 1px 5px 10px grey;
+    margin-top: 30px;
+}
+.contact-section button {
+    padding: 10px 60px;
+}
