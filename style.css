@@ -39,7 +39,7 @@ section{
     background: none;
 }
 .bannar-section img {
-    width: 500px;
+    width: 440px;
 }
 .green-color{
     color: #28a745;
@@ -245,4 +245,5 @@ section{
 }
 .contact-section button {
     padding: 10px 60px;
+    margin-left: 10px;
 }
